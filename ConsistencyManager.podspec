@@ -16,5 +16,6 @@ Pod::Spec.new do |spec|
 
   spec.osx.deployment_target  = '10.11'
   spec.osx.frameworks         = 'Foundation'
+  spec.swift_version = '5.0'
 end
 
